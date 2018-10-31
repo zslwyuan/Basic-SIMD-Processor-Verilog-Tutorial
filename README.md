@@ -17,4 +17,5 @@ processor is shown in the figure above.
 The experiment based on Cadence are shown below and more details can be found in the **[report](https://github.com/zslwyuan/Basic-SIMD-Processor-Verilog-Tutorial/blob/master/report.pdf)**. The source code is well-commented and user can easily understanding how it work. 
 
 <img src="https://github.com/zslwyuan/Basic-SIMD-Processor-Verilog-Tutorial/blob/master/post_layout_Sim.PNG" width="500"> 
-<img src=https://github.com/zslwyuan/Basic-SIMD-Processor-Verilog-Tutorial/blob/master/Layout.PNG" width="500"> 
+
+<img src="https://github.com/zslwyuan/Basic-SIMD-Processor-Verilog-Tutorial/blob/master/Layout.PNG" width="500"> 
