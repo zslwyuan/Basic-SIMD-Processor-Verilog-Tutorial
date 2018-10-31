@@ -1,0 +1,2 @@
+# Basic-SIMD-Processor-Verilog-Tutorial
+Implementation of a simple SIMD processor in Verilog, core of which is a 16-bit SIMD ALU. 2's compliment calculations are implemented in this ALU. The ALU operation will take two clocks. The first clock cycle will be used to load values into the registers. The second will be for performing the operations. 6-bit opcodes are used to select the functions. The instruction code, including the opcode, will be 18-bit.
